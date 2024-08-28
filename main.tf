@@ -4,7 +4,7 @@ terraform {
   cloud {
     organization = "VIACSP"
     workspaces {
-      name = "aws-cli-viacsp"
+      name = "lesson-11"
     }
   }
 
